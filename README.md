@@ -1,5 +1,4 @@
-Alyona Nabok
-Hi there! I'm Alyona, a passionate software developer with a love for creating solutions to complex problems.
+### Hi there! I'm Alyona, a passionate software developer with a love for creating solutions to complex problems.
 
 🌟 Highlighted Projects
 - [Next.js, Admin Dashboard for E-commerce](https://github.com/nabokok/product_catalog_admin)
