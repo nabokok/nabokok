@@ -2,11 +2,11 @@ Alyona Nabok
 Hi there! I'm Alyona, a passionate software developer with a love for creating solutions to complex problems.
 
 🌟 Highlighted Projects
-[Next.js, Admin Dashboard for E-commerce](https://github.com/nabokok/product_catalog_admin)
-[React, Apple E-commerce](https://github.com/underHeel/product_catalog) - Group project
-[React, Todo App](https://github.com/nabokok/react_todo-app-with-api)
-[Landing Page](https://github.com/nabokok/layout_landing-page)
-[JS, Time Measure](https://github.com/nabokok/time-measure)
+- [Next.js, Admin Dashboard for E-commerce](https://github.com/nabokok/product_catalog_admin)
+- [React, Apple E-commerce](https://github.com/underHeel/product_catalog) - Group project
+- [React, Todo App](https://github.com/nabokok/react_todo-app-with-api)
+- [Landing Page](https://github.com/nabokok/layout_landing-page)
+- [JS, Time Measure](https://github.com/nabokok/time-measure)
 
 
 💼 Experience
