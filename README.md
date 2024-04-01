@@ -4,7 +4,7 @@
 - [Next.js, Admin Dashboard for E-commerce](https://github.com/nabokok/product_catalog_admin)
 - [React, Apple E-commerce](https://github.com/underHeel/product_catalog) - Group project
 - [React, Todo App](https://github.com/nabokok/react_todo-app-with-api)
-- [Landing Page](https://github.com/nabokok/layout_landing-page)
+- [Landing Page](https://github.com/nabokok/landing_page)
 - [JS, Time Measure](https://github.com/nabokok/time-measure)
 
 
