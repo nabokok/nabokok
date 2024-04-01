@@ -3,7 +3,7 @@
 ### 🌟 Highlighted Projects
 - [Next.js, Admin Dashboard for E-commerce](https://github.com/nabokok/product_catalog_admin)
 - [React, Apple E-commerce](https://github.com/underHeel/product_catalog) - Group project
-- [React, Todo App](https://github.com/nabokok/react_todo-app-with-api)
+- [React, Todo App](https://github.com/nabokok/todo_app)
 - [Landing Page](https://github.com/nabokok/landing_page)
 - [JS, Time Measure](https://github.com/nabokok/time-measure)
 
